@@ -6,5 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #ollama/ollama:0.3.12
-elasticsearch:8.15.0
-kibana:8.15.0
+#elasticsearch:8.15.0
+#kibana:8.15.0
+redis:8.0-M02
