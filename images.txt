@@ -8,4 +8,5 @@
 #ollama/ollama:0.3.12
 #elasticsearch:8.15.0
 #kibana:8.15.0
-redis:8.0-M02
+#redis:8.0-M02
+mongo:8.0.3
