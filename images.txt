@@ -10,4 +10,5 @@
 #kibana:8.15.0
 #redis:8.0-M02
 #mongo:8.0.3
-mongo:5.0
+#mongo:5.0
+gcr.io/k8s-minikube/kicbase:v0.0.39
