@@ -12,4 +12,9 @@
 #mongo:8.0.3
 #mongo:5.0
 #gcr.io/k8s-minikube/kicbase:v0.0.39
-jellyfin/jellyfin
+#jellyfin/jellyfin
+ffdfgdfg/npc
+nginx:1.25
+p3terx/aria2-pro
+p3terx/ariang
+arm64v8/mariadb:10.2
