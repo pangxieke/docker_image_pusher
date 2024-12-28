@@ -14,7 +14,8 @@
 #gcr.io/k8s-minikube/kicbase:v0.0.39
 #jellyfin/jellyfin
 #ffdfgdfg/npc
-zzqinglei/npc
+zzqinglei/nps
+#zzqinglei/npc
 nginx:1.25
 p3terx/aria2-pro
 p3terx/ariang
