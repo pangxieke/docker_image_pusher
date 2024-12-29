@@ -3,7 +3,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 xiaoyaliu/alist
 
 #ollama/ollama:0.3.12
 #elasticsearch:8.15.0
@@ -15,7 +15,7 @@
 #jellyfin/jellyfin
 #ffdfgdfg/npc
 yisier1/npc:v0.26.20
-nginx:1.25
-p3terx/aria2-pro
-p3terx/ariang
-arm64v8/mariadb:10.2
+#nginx:1.25
+#p3terx/aria2-pro
+#p3terx/ariang
+#arm64v8/mariadb:10.2
