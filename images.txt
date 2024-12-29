@@ -16,7 +16,7 @@
 #jellyfin/jellyfin
 #ffdfgdfg/npc
 yisier1/npc:v0.26.20
-#nginx:1.25
+nginx:1.25
 #p3terx/aria2-pro
 #p3terx/ariang
 #arm64v8/mariadb:10.2
