@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm/v7
+--platform=linux/arm/v7 xiaoyaliu/alist
 
 #ollama/ollama:0.3.12
 #elasticsearch:8.15.0
