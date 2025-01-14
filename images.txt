@@ -20,4 +20,5 @@
 #p3terx/aria2-pro
 #p3terx/ariang
 #arm64v8/mariadb:10.2
-python:3.10.16
+#python:3.10.16
+kokoro/tts-api
