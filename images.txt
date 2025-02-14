@@ -22,4 +22,8 @@
 #arm64v8/mariadb:10.2
 #python:3.10.16
 #kokoro/tts-api
-mysql/mysql-server:8.0.26
+#mysql/mysql-server:8.0.26
+postgres:15-alpine
+zabbix/zabbix-server-pgsql:latest
+zabbix/zabbix-web-nginx-pgsql:latest
+zabbix/zabbix-agent:latest
