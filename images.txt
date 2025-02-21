@@ -28,5 +28,7 @@
 #zabbix/zabbix-web-nginx-pgsql:latest
 #zabbix/zabbix-agent:latest
 
-ollama/ollama:0.3.12
-ghcr.io/open-webui/open-webui:main
+#ollama/ollama:0.3.12
+#ghcr.io/open-webui/open-webui:main
+
+gradio-app:latest
