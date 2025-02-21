@@ -23,7 +23,10 @@
 #python:3.10.16
 #kokoro/tts-api
 #mysql/mysql-server:8.0.26
-postgres:15-alpine
-zabbix/zabbix-server-pgsql:latest
-zabbix/zabbix-web-nginx-pgsql:latest
-zabbix/zabbix-agent:latest
+#postgres:15-alpine
+#zabbix/zabbix-server-pgsql:latest
+#zabbix/zabbix-web-nginx-pgsql:latest
+#zabbix/zabbix-agent:latest
+
+ollama/ollama:0.3.12
+ghcr.io/open-webui/open-webui:main
