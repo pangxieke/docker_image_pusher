@@ -32,4 +32,6 @@
 #ghcr.io/open-webui/open-webui:main
 
 #gradio-app:latest
-easysoft/zentao:21.4-20250126
+#easysoft/zentao:21.4-20250126
+gitlab/gitlab-ce:17.7.0-ce.0
+
