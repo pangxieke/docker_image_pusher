@@ -31,4 +31,5 @@
 #ollama/ollama:0.3.12
 #ghcr.io/open-webui/open-webui:main
 
-gradio-app:latest
+#gradio-app:latest
+easysoft/zentao:21.4-20250126
