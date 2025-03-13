@@ -40,5 +40,7 @@
 #mysql:5.7
 #maven:3.8-jdk-8
 #openjdk:8-jdk-slim
-node:14
-nginx:alpine
+#node:14
+#nginx:alpine
+easysoft/zentao:18.12
+
