@@ -42,5 +42,6 @@
 #openjdk:8-jdk-slim
 #node:14
 #nginx:alpine
-easysoft/zentao:18.12
+#easysoft/zentao:18.12
+php:7.1-fpm
 
