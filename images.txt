@@ -43,5 +43,6 @@
 #node:14
 #nginx:alpine
 #easysoft/zentao:18.12
-php:7.1-fpm
+#php:7.1-fpm
+cr2.fit2cloud.com/metersphere/metersphere-ce-allinone
 
