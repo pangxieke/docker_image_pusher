@@ -45,5 +45,5 @@
 #easysoft/zentao:18.12
 #php:7.1-fpm
 #metersphere/metersphere-ce-allinone
-0.5.12
+ollama:0.5.13
 
