@@ -45,5 +45,6 @@
 #easysoft/zentao:18.12
 #php:7.1-fpm
 #metersphere/metersphere-ce-allinone
-ollama:latest
+#ollama:latest
+dockurr/windows:latest
 
