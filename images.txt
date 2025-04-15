@@ -46,5 +46,6 @@
 #php:7.1-fpm
 #metersphere/metersphere-ce-allinone
 #ollama:latest
-dockurr/windows:latest
+#dockurr/windows:latest
+kartoza/geoserver
 
