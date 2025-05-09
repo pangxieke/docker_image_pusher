@@ -47,5 +47,6 @@
 #metersphere/metersphere-ce-allinone
 #ollama:latest
 #dockurr/windows:latest
-kartoza/geoserver
-
+#kartoza/geoserver
+alpine:latest
+golang:1.20-alpine
