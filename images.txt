@@ -48,5 +48,6 @@
 #ollama:latest
 #dockurr/windows:latest
 #kartoza/geoserver
-alpine:latest
-golang:1.20-alpine
+#alpine:latest
+#golang:1.20-alpine
+redis:8.0
