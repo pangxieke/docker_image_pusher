@@ -50,4 +50,4 @@
 #kartoza/geoserver
 #alpine:latest
 #golang:1.20-alpine
-redis:8.0
+redis:8.0-alpine
