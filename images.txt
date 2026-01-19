@@ -55,4 +55,4 @@
 #alpine:3.19
 #--platform=linux/arm/v7 mysql/mysql-server:8.0.26
 
-soulteary/leanote
+lphoward/leanote:latest
